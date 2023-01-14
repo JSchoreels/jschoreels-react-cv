@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/jschoreels-react-cv/static/css/main.94cdbef1.css",
+    "main.js": "/jschoreels-react-cv/static/js/main.023f3356.js",
+    "static/js/787.c8887d99.chunk.js": "/jschoreels-react-cv/static/js/787.c8887d99.chunk.js",
+    "static/media/circuit_1080.mp4": "/jschoreels-react-cv/static/media/circuit_1080.aced8322bb9b9bd70f48.mp4",
+    "static/media/IMG_1503-2.jpg": "/jschoreels-react-cv/static/media/IMG_1503-2.cd57f157ef9a6cf10c94.jpg",
+    "static/media/logo_github_icon_143196.png": "/jschoreels-react-cv/static/media/logo_github_icon_143196.dea49d48a3e47344edfe.png",
+    "static/media/logo_twitter_bird_icon_143203.png": "/jschoreels-react-cv/static/media/logo_twitter_bird_icon_143203.63b24184858ab63ef8c5.png",
+    "static/media/logo_linkedin_icon_143191.png": "/jschoreels-react-cv/static/media/logo_linkedin_icon_143191.2fc49dd7180e4500e24f.png",
+    "index.html": "/jschoreels-react-cv/index.html",
+    "main.94cdbef1.css.map": "/jschoreels-react-cv/static/css/main.94cdbef1.css.map",
+    "main.023f3356.js.map": "/jschoreels-react-cv/static/js/main.023f3356.js.map",
+    "787.c8887d99.chunk.js.map": "/jschoreels-react-cv/static/js/787.c8887d99.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94cdbef1.css",
+    "static/js/main.023f3356.js"
+  ]
+}
