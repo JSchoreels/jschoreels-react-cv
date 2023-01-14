@@ -4,7 +4,7 @@ import contact_linkedin_icon from "../images/icons/logo_linkedin_icon_143191.png
 import contact_twitter_icon from "../images/icons/logo_twitter_bird_icon_143203.png"
 function CVContactIcon(props) {
     return <a href={props.link}>
-        <img className="icons" src={props.src} alt={"Picture of Jonathan Schoreels"}/>
+        <img className="icons" src={props.src} alt={"Jonathan Schoreels"}/>
     </a>
 }
 
