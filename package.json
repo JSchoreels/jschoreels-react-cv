@@ -1,6 +1,5 @@
 {
   "name": "jschoreels-react-cv",
-  "homepage": "https://jschoreels.github.io/jschoreels-react-cv",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
